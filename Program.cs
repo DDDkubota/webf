@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace programaweb24
@@ -19,6 +16,9 @@ namespace programaweb24
             Login main = new Login();
             main.Show();
             Application.Run();
+
+
+
         }
     }
 }

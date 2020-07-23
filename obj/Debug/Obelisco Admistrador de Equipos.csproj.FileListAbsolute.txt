@@ -1,0 +1,27 @@
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\programaweb24.exe.config
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\programaweb24.exe
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\Google.Protobuf.dll
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\MySql.Data.dll
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\Renci.SshNet.dll
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\Google.Protobuf.xml
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\MySql.Data.xml
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\Renci.SshNet.xml
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\Obelisco Admistrador de Equipos.csprojAssemblyReference.cache
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.AgregarSaldo.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.ConfigServidor.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.ConsultarMovimientos.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.ConsultarUsuarioHistorial.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.Control_PC.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.HistorialPC.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.Menu.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.Login.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.Properties.Resources.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\Obelisco Admistrador de Equipos.csproj.GenerateResource.cache
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\Obelisco Admistrador de Equipos.csproj.CopyComplete
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.exe
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.pdb
+C:\Users\Betac\source\repos\programaweb24\bin\Debug\programaweb24.pdb
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.Ventanas.ModifcarUsuarioAdmin.resources
+C:\Users\Betac\source\repos\programaweb24\obj\Debug\programaweb24.Ventanas.Validarusuario.resources
